@@ -20,4 +20,4 @@ It can be used to build fun Pokémon-themed workflows, practice creating custom 
 1. **Clone the repository** into your n8n custom nodes folder:
 
 ```bash
-git clone git@github.com:rahibbutt/n8n-nodes-pokemon.git ~/.n8n/custom/n8n-nodes-pokemon
+git clone git@github.com:rahibbutt/n8n-nodes-pokemon.git
